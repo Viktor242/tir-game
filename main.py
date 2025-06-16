@@ -4,6 +4,5 @@ pygame.init()
 
 running = True
 while running:
-pass
-
+        pass
 pygame.quit()
